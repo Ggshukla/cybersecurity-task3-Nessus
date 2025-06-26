@@ -33,14 +33,10 @@
 ## Report Files
 - `screenshots/scan-summary.png`
 - `screenshots/smb-vulnerability.png`
-- `nessus-report.pdf` *(if exported)*
 
-## Screenshots
-See the `/screenshots/` folder in this repository for detailed visuals.
 
----
 
-## ✅ Key Learnings
+## Key Learnings
 - Hands-on use of a real-world security scanner
 - Understanding CVSS, risk classification, and vulnerability descriptions
 - Basics of system-level misconfigurations
